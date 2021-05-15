@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-react-restoapp/static/css/main.7cc70426.chunk.css",
+    "main.js": "/project-react-restoapp/static/js/main.c4c72049.chunk.js",
+    "main.js.map": "/project-react-restoapp/static/js/main.c4c72049.chunk.js.map",
+    "runtime-main.js": "/project-react-restoapp/static/js/runtime-main.615616dd.js",
+    "runtime-main.js.map": "/project-react-restoapp/static/js/runtime-main.615616dd.js.map",
+    "static/css/2.cc446b50.chunk.css": "/project-react-restoapp/static/css/2.cc446b50.chunk.css",
+    "static/js/2.05de06f6.chunk.js": "/project-react-restoapp/static/js/2.05de06f6.chunk.js",
+    "static/js/2.05de06f6.chunk.js.map": "/project-react-restoapp/static/js/2.05de06f6.chunk.js.map",
+    "static/js/3.76e74c81.chunk.js": "/project-react-restoapp/static/js/3.76e74c81.chunk.js",
+    "static/js/3.76e74c81.chunk.js.map": "/project-react-restoapp/static/js/3.76e74c81.chunk.js.map",
+    "index.html": "/project-react-restoapp/index.html",
+    "static/css/2.cc446b50.chunk.css.map": "/project-react-restoapp/static/css/2.cc446b50.chunk.css.map",
+    "static/css/main.7cc70426.chunk.css.map": "/project-react-restoapp/static/css/main.7cc70426.chunk.css.map",
+    "static/js/2.05de06f6.chunk.js.LICENSE.txt": "/project-react-restoapp/static/js/2.05de06f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.615616dd.js",
+    "static/css/2.cc446b50.chunk.css",
+    "static/js/2.05de06f6.chunk.js",
+    "static/css/main.7cc70426.chunk.css",
+    "static/js/main.c4c72049.chunk.js"
+  ]
+}
